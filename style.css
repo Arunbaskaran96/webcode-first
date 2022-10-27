@@ -1,0 +1,62 @@
+img{
+    height: 280px;
+    width: 300px;
+    margin-bottom: 0px;
+    object-fit: fill;
+}
+
+
+h3{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+} 
+
+h5{
+    font-size:20px ;
+    text-align: center;
+    color: white;
+}
+h6{
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
+#des{
+    font-size: 13px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.btn{
+    font-size: 10px;
+    text-align: center;
+}
+body{
+    background-color: whitesmoke;
+}
+
+.cards{
+    border: 1px solid black;
+
+}
+.card-body{
+    background-color: gray;
+}
+.col{
+    background-color: gray;
+}
+.button{
+    margin: 2px;
+    font-size: 10px;
+}
+
+button:hover{
+    background-color: yellowgreen;
+    transform: scale(1.5);
+}
+button:active{
+    transform: scale(0.5);
+}
+
+
